@@ -9,6 +9,7 @@
 
 ## I'm in progress to become a fullstack developer!
 - ✍ You can find my projects here [portfolio]
+- I'm a studing at Driven to become a full stack software engineer
 
 
 
@@ -17,7 +18,7 @@
 
 
 
-### Talk with me, I am kinda awesome:
+### My LinkedIn:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -54,12 +55,12 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
 
 </details>
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
+[website]: 
+[youtube]: 
+[instagram]: 
 [linkedin]: https://www.linkedin.com/in/pedro-arantes-vianna/
-[portfolio]: https://arsentieva.github.io/profile/
+[portfolio]: 
