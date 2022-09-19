@@ -58,8 +58,8 @@
 
 </details>
 
-[website]: 
-[youtube]: 
-[instagram]: 
+[website]: https://www.linkedin.com/in/pedro-arantes-vianna/
+[youtube]: https://www.linkedin.com/in/pedro-arantes-vianna/
+[instagram]: https://www.linkedin.com/in/pedro-arantes-vianna/
 [linkedin]: https://www.linkedin.com/in/pedro-arantes-vianna/
-[portfolio]: 
+[portfolio]: https://www.linkedin.com/in/pedro-arantes-vianna/
