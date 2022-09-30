@@ -1,7 +1,7 @@
 ### Hi there,I'm Pedro  👋
 
 
-- 🔭 I’m currently working on learning React.
+- 🔭 I’m currently working on projects sent by Driven.
 - 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,GIT,React
 - 📫 How to reach me: developer9pedro@gmail.com
 - 😄 Pronouns: He/His
