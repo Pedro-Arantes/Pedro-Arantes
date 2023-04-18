@@ -9,7 +9,7 @@
 
 ## I'm in progress to become a fullstack developer!
 - ✍ You can find my projects here [portfolio]
-- I'm a studing at Driven to become a full stack software engineer
+- I'm  a full stack software engineer
 
 
 
