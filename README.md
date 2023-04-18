@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning AWS and Docker.
 - 📫 How to reach me: developer9pedro@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact:
+- ⚡ Fun fact: 
 
 ## I'm in progress to become a fullstack developer!
 - ✍ You can find my projects here [portfolio]
