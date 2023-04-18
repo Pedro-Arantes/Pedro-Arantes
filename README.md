@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on projects sent by Driven.
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,GIT,React
+- 🌱 I’m currently learning AWS and Docker.
 - 📫 How to reach me: developer9pedro@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact:
